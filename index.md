@@ -5,7 +5,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "University College London"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "Euston Road (222), room LG01"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
-flag_in_person: ""    # Provide "true" to include text in the general information, stressing the workshop is in-person attendance only.
+flag_in_person: "true"    # Provide "true" to include text in the general information, stressing the workshop is in-person attendance only.
 country: "en"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "51.444370"        # decimal latitude of workshop venue (use https://www.latlong.net/)
